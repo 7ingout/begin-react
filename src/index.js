@@ -5,6 +5,8 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
+// 컴포넌트를 페이지에 랜더링을 해줌
+
 root.render(
   <React.StrictMode>
     <App />
